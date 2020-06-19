@@ -1,0 +1,63 @@
+@font-face {
+    font-family: Bebas;
+    src: url(fonts/BEBAS.ttf);
+}
+
+.bebas{
+    font-family: Bebas, Helvetica, sans-serif;
+}
+
+@font-face {
+    font-family: Montserrat-Medium;
+    src: url(fonts/Montserrat-Medium.ttf);
+}
+
+.montserrat-medium{
+    font-family: Montserrat-Medium, Helvetica, sans-serif;
+}
+
+.logo{
+    transform: rotate(270deg);
+    height: 4em;
+}
+
+.navbar-toggler{
+    border: none;
+}
+
+.about{
+    height: 100vh;
+}
+
+h1{
+    word-spacing: 0.4em;
+    letter-spacing: -0.1rem;
+}
+
+.cv{
+    background-color: black;
+    color: white;
+    margin-top: 5em;
+}
+
+.cv:hover{
+    background-color: dimgrey;
+    color: white;
+    text-decoration: none;
+}
+
+#background-video {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+  }
+
+/* .monogram-section{
+    height: 90vh;
+}
+
+.monogram{
+    
+} */
