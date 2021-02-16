@@ -1,7 +1,7 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/prmldrl422s7/repositories/michaelavanzyl.com/public_html/
+    - export DEPLOYPATH=/home/prmldrl422s7/repositories/michaelavanzyl.com
     - /bin/cp index.html $DEPLOYPATH
     - /bin/cp style.css $DEPLOYPATH
     - /bin/cp -R documents $DEPLOYPATH
