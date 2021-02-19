@@ -1,13 +1,4 @@
 @font-face {
-    font-family: Bebas;
-    src: url(fonts/BEBAS.ttf);
-}
-
-.bebas{
-    font-family: Bebas, Helvetica, sans-serif;
-}
-
-@font-face {
     font-family: Montserrat-Medium;
     src: url(fonts/Montserrat-Medium.ttf);
 }
